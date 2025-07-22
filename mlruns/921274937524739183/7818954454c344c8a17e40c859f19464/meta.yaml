@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/GitHub/Pixar-History/mlruns/921274937524739183/7818954454c344c8a17e40c859f19464/artifacts
+end_time: 1753170495900
+entry_point_name: ''
+experiment_id: '921274937524739183'
+lifecycle_stage: active
+run_id: 7818954454c344c8a17e40c859f19464
+run_name: masked-hog-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753170485503
+status: 3
+tags: []
+user_id: Lenovo

@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/GitHub/Pixar-History/mlruns/921274937524739183/8ff11f446bf24d47ba7bb7c4586258b9/artifacts
+end_time: 1753174708786
+entry_point_name: ''
+experiment_id: '921274937524739183'
+lifecycle_stage: active
+run_id: 8ff11f446bf24d47ba7bb7c4586258b9
+run_name: learned-sponge-433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753174656235
+status: 3
+tags: []
+user_id: Lenovo

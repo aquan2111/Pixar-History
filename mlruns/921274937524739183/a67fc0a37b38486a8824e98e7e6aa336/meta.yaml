@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/GitHub/Pixar-History/mlruns/921274937524739183/a67fc0a37b38486a8824e98e7e6aa336/artifacts
+end_time: 1753178426733
+entry_point_name: ''
+experiment_id: '921274937524739183'
+lifecycle_stage: active
+run_id: a67fc0a37b38486a8824e98e7e6aa336
+run_name: learned-vole-885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753178421609
+status: 3
+tags: []
+user_id: Lenovo

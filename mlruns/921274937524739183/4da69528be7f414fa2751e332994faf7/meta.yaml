@@ -1,0 +1,14 @@
+artifact_uri: file:///e:/GitHub/Pixar-History/mlruns/921274937524739183/4da69528be7f414fa2751e332994faf7/artifacts
+end_time: 1753173013031
+entry_point_name: ''
+experiment_id: '921274937524739183'
+lifecycle_stage: active
+run_id: 4da69528be7f414fa2751e332994faf7
+run_name: learned-shrike-64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753172978471
+status: 3
+tags: []
+user_id: Lenovo
